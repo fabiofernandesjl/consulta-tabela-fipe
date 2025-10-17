@@ -1,7 +1,7 @@
 const App = () => {
   return (
     <>
-      <div className="text-5xl text-blue-600 font-bold">Hello World!!!</div>
+      <div className="bg-[url(./assets/background.jpg)] bg-cover bg-no-repeat opacity-60 h-screen w-screen"></div>
     </>
   );
 };
